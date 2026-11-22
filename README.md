@@ -53,7 +53,7 @@ An end-to-end Business Intelligence dashboard built in **Power BI Desktop** and 
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/fernando-chávez-belmontes-7ab533261" target="_blank">
+  <a href="www.linkedin.com/in/fernando-ch%C3%A1vez-belmontes-7ab533261" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="https://google.com" target="_blank">
