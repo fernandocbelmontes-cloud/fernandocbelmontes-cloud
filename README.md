@@ -34,8 +34,7 @@ Industrial Engineer & Behavioral Insights professional focused on transforming r
 
 ## 🚀 Featured Data Portfolio Projects
 
-### 🐍 [Python Data Automation & Cleansing Pipeline](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19f1ee30-d9a8-405f-bcac-146ccdfa85d6" />
-)
+### 🐍 [Python Data Automation & Cleansing Pipeline](https://github.com/fernandocbelmontes-cloud/python-data-automation)
 An automated data engineering pipeline designed natively using **Pandas**. It ingests chaotic raw datasets, executes algorithmic string standardization (whitespace stripping, title casing), enforces strict data de-duplication rules, and exports structured corporate CSV reports alongside computed financial KPIs.
 
 ### 🛢️ [SQL Server POS Engine & Database Architecture](https://github.com)
