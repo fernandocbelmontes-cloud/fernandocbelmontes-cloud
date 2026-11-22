@@ -56,7 +56,7 @@ An end-to-end Business Intelligence dashboard built in **Power BI Desktop** and 
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="mailto:fernandocbelmontes-cloud@gmail.com">
+  <a href="mailto:fernandocbelmontes@gmail.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
