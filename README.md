@@ -37,7 +37,7 @@ Industrial Engineer & Behavioral Insights professional focused on transforming r
 ### 🐍 [Python Data Automation & Cleansing Pipeline](https://github.com/fernandocbelmontes-cloud/python-data-automation)
 An automated data engineering pipeline designed natively using **Pandas**. It ingests chaotic raw datasets, executes algorithmic string standardization (whitespace stripping, title casing), enforces strict data de-duplication rules, and exports structured corporate CSV reports alongside computed financial KPIs.
 
-### 🛢️ [SQL Server POS Engine & Database Architecture](https://github.com)
+### 🛢️ [SQL Server POS Engine & Database Architecture](https://github.com/fernandocbelmontes-cloud/sql-server-pos-analytics)
 A full-stack backend relational database schema built in **T-SQL (SQL Server)** for Point of Sale (POS) and inventory systems. Demonstrates advanced structural queries, complex **Recursive Common Table Expressions (CTEs)** for inventory hierarchies, automated transactional constraints via **Triggers**, and decoupled business logic through optimized **Stored Procedures** with transaction controls (`TRY...CATCH`).
 
 ### 📊 [POS Sales & Inventory Analytics Dashboard](https://github.com)
