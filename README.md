@@ -40,6 +40,9 @@ An automated data engineering pipeline designed natively using **Pandas**. It in
 ### 🛢️ [SQL Server POS Engine & Database Architecture](https://github.com)
 A full-stack backend relational database schema built in **T-SQL (SQL Server)** for Point of Sale (POS) and inventory systems. Demonstrates advanced structural queries, complex **Recursive Common Table Expressions (CTEs)** for inventory hierarchies, automated transactional constraints via **Triggers**, and decoupled business logic through optimized **Stored Procedures** with transaction controls (`TRY...CATCH`).
 
+### 📊 [POS Sales & Inventory Analytics Dashboard](https://github.com)
+An end-to-end Business Intelligence dashboard built in **Power BI Desktop** and connected directly to a live **SQL Server** database. Features custom **DAX** measures (`CALCULATE`, `DIVIDE`, `SUMX`) to track regional revenue, average customer ticket, and real-time warehouse inventory valuation.
+
 ---
 
 ## 📈 Professional Experience Highlight
